@@ -13,6 +13,6 @@ All used data in this project is provided by UNC Chapel Hill’s Data Analytics 
 
 ### Files:
 - The data folder contains two files, from which the data was imported for this challenge project:
-    - Mouse_metadata.csv - contains data on mouse id, drug regimen, the sex of the mouse, the age of the mouse (in months), and the weight of the mouse (g)
-    - Study_results.csv - contains data on the mouse id, time point at which tumor measurements were taken, the tumor volume (in mm3), and the number of metastatic sites in the mouse.
+    - Mouse_metadata.csv - contains data on mouse id, drug regimen, the sex of the mouse, the age of the mouse (in months), and the weight of the mouse (in grams)
+    - Study_results.csv - contains data on the mouse id, time point at which tumor measurements were taken, the tumor volume (in cubic millimeters), and the number of metastatic sites in the mouse.
 - pymaceuticals-code.ipynb - contains all the code used to analyze data, answer project questions, and make visualizations. It also contains a short written analysis at the beginning of the file.
